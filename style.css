@@ -14,7 +14,7 @@
     height: 45px;
     border: 2px solid black;
     box-sizing: content-box;
-    font-size:40px;
+    font-size:40px; 
     display: flex;
     justify-content: center;
     align-items: center;
