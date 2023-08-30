@@ -22,6 +22,37 @@
 
 }
 
+.full1{
+    width: 45px;
+    height: 45px;
+    border-top: 2px solid white ;
+    border-left: 2px solid white;
+    border-right:2px solid black;
+    border-bottom: 2px solid black;
+    
+}
+
+.full2{
+    width: 45px;
+    height: 45px;
+    border-top: 2px solid white ;
+    border-left: 2px solid white;
+    border-right:2px solid black;
+    border-bottom: 2px solid black;
+    
+}
+
+.full3{
+    width: 45px;
+    height: 45px;
+    border-top: 2px solid white ;
+    border-left: 2px solid white;
+    border-right:2px solid black;
+    border-bottom: 2px solid black;   
+}
+
+
+
 
 .un{
     color: blue;
