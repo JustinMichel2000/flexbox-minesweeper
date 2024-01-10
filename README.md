@@ -1,8 +1,8 @@
 ## About This Project
 
 The point of this project was to learn HTML and CSS following different instructions.  
-We had to create a page based on an image we had.  
-It is a simple project to discover the grid in CSS.
+We had to create a static minesweeper based on an image we had.    
+It is a simple project to discover HTML and CSS.
 
 ### Built With  
 
